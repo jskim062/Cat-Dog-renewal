@@ -1,2 +1,2 @@
 # Cat-Dog-renewal
-Cat-Dog_renewal
+Cat_Dog_renewal
